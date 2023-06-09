@@ -1,0 +1,12 @@
+C:\WorkSpace\hVbXXNGlJqgtKwhhbRoT\UnitConverter\Converter\bin\Debug\net5.0\Converter.deps.json
+C:\WorkSpace\hVbXXNGlJqgtKwhhbRoT\UnitConverter\Converter\bin\Debug\net5.0\Converter.dll
+C:\WorkSpace\hVbXXNGlJqgtKwhhbRoT\UnitConverter\Converter\bin\Debug\net5.0\ref\Converter.dll
+C:\WorkSpace\hVbXXNGlJqgtKwhhbRoT\UnitConverter\Converter\bin\Debug\net5.0\Converter.pdb
+C:\WorkSpace\hVbXXNGlJqgtKwhhbRoT\UnitConverter\Converter\obj\Debug\net5.0\Converter.csproj.AssemblyReference.cache
+C:\WorkSpace\hVbXXNGlJqgtKwhhbRoT\UnitConverter\Converter\obj\Debug\net5.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\hVbXXNGlJqgtKwhhbRoT\UnitConverter\Converter\obj\Debug\net5.0\Converter.AssemblyInfoInputs.cache
+C:\WorkSpace\hVbXXNGlJqgtKwhhbRoT\UnitConverter\Converter\obj\Debug\net5.0\Converter.AssemblyInfo.cs
+C:\WorkSpace\hVbXXNGlJqgtKwhhbRoT\UnitConverter\Converter\obj\Debug\net5.0\Converter.csproj.CoreCompileInputs.cache
+C:\WorkSpace\hVbXXNGlJqgtKwhhbRoT\UnitConverter\Converter\obj\Debug\net5.0\Converter.dll
+C:\WorkSpace\hVbXXNGlJqgtKwhhbRoT\UnitConverter\Converter\obj\Debug\net5.0\ref\Converter.dll
+C:\WorkSpace\hVbXXNGlJqgtKwhhbRoT\UnitConverter\Converter\obj\Debug\net5.0\Converter.pdb
