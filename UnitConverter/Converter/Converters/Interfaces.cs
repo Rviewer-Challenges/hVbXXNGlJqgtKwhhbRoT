@@ -1,9 +1,11 @@
 ﻿using Converter.Enums;
-using System;
 using System.Collections.Generic;
 
 namespace Converter
 {
+    /// <summary>
+    /// Main interface used for converters.
+    /// </summary>
     public interface IConverter
     {
         List<IUnit> AvailableUnits { get; set; }
@@ -15,6 +17,9 @@ namespace Converter
         double Calculate(double valueToConvert, double fromOffset, double toOffset);
     }
 
+    /// <summary>
+    /// Main interface used for units.
+    /// </summary>
     public interface IUnit 
     {
         Units unitType { get; set; }
