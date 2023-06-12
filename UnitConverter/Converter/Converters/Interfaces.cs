@@ -12,8 +12,8 @@ namespace Converter
         Units masterUnit { get; set; }
         void SetUnitsListRelative(int fromIdx, int toIdx);
         double Calculate(double valueToConvert);
+        double Calculate(double valueToConvert, double fromOffset, double toOffset);
     }
-
 
     public interface IUnit 
     {
